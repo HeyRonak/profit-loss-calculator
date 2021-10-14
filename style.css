@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+body{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0px;
+}
+
+.container{
+    text-align: center;
+    background-color:  #FB923C;
+    margin:10vh auto;
+    width: 70vh;
+    padding: 2rem;
+    border-radius: 3rem;
+
+}
+
+input{
+    display: block;
+    margin: auto;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    border: 1px solid #FB923C;
+}
+
+label{
+    display: block;
+    padding: 0.5rem;
+    font-weight: bold;
+}
+
+button{
+    background-color: black;
+    color: white;
+    padding: 0.8rem;
+    border-radius: 0.8rem;
+    font-size: medium;
+    border: 1px solid white;
+}
